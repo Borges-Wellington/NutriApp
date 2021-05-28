@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NutriApp.View.LoginPage">
+    <ScrollView>
+
+        <StackLayout Orientation="Vertical" VerticalOptions="Center" Margin="40,0" >
+            <BoxView ></BoxView>
+            <Image Source="Lcad256.ico"></Image>
+            <Label Text="Login:"></Label>
+            <Entry x:Name="txt_cpf" Placeholder="Infrome o CPF" TextColor="Black" Margin="10,0"></Entry>
+            <Entry x:Name="txt_email" Placeholder="Infrome seu E-mail" TextColor="Black" Margin="10,0"></Entry>
+            <Button x:Name="Btn_Login" Text="Login" Margin="100,20" BackgroundColor="LightCoral"  BorderWidth="30" Clicked="Btn_Login_Click"></Button>
+            
+        </StackLayout>
+        
+    </ScrollView>
+</ContentPage>

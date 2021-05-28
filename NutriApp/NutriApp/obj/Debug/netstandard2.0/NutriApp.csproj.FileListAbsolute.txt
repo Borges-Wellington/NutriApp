@@ -1,0 +1,15 @@
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\bin\Debug\netstandard2.0\NutriApp.deps.json
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\bin\Debug\netstandard2.0\NutriApp.dll
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\bin\Debug\netstandard2.0\ref\NutriApp.dll
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\bin\Debug\netstandard2.0\NutriApp.pdb
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.csprojAssemblyReference.cache
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.AssemblyInfoInputs.cache
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.AssemblyInfo.cs
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.csproj.CoreCompileInputs.cache
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.dll
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\ref\NutriApp.dll
+C:\Users\Wellington Borges\Documents\APP\Aplicativos\NutriApp\NutriApp\NutriApp\obj\Debug\netstandard2.0\NutriApp.pdb
